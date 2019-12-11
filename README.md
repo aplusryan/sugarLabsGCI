@@ -1,2 +1,2 @@
 # sugarLabsGCI
-sugarLabs repository
+My First Repository
